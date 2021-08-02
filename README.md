@@ -1,2 +1,1 @@
-# demo-repository
-Created repository for demo purpose
+#This is README.md file.
